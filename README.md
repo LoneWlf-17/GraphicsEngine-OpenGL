@@ -5,6 +5,16 @@ This engine provides a simple and modular way to create, load, and render 3D con
 
 ---
 
+## 📷 Preview
+
+<p align="center">
+  <img src="preview.png" alt="Graphics Engine Preview" width="800"/>
+</p>
+
+*A sample scene rendered using the GraphicsEngine.*
+
+---
+
 ## 🚀 Features
 
 - 🧱 **Scene System** — Create and manage multiple scene objects easily.  
@@ -13,6 +23,16 @@ This engine provides a simple and modular way to create, load, and render 3D con
 - 🎨 **Shaders** — Includes support for **LIT** and **UNLIT** shaders.  
 - 🧩 **Components** — Modular component-based architecture for easy extension.  
 - 📦 **Model Loading** — Supports loading 3D models (e.g., `.obj`) with textures.  
+
+---
+
+## 🧩 Dependencies
+
+- **GLFW**  
+- **GLAD**  
+- **GLM**  
+- **ASSIMP**  
+- **stb_image**
 
 ---
 
